@@ -1,0 +1,1 @@
+Notes on "Elements of Information Theory - 2nd Edition" By Cover and Thomas.

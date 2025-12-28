@@ -1,0 +1,1 @@
+Notes on "Ideals, Varieties, and Algorithms" by Cox, Little, and O'Shea.

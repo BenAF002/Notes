@@ -1,0 +1,1 @@
+Notes on "Bayesian Data Analysis - Third Edition" by Gelmin et. al.
