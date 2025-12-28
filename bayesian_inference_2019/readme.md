@@ -1,0 +1,1 @@
+Notes on "Baysian Inference 2019" by Hyvönen and Tolonen, available [here](https://vioshyvo.github.io/Bayesian_inference/index.html).

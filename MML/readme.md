@@ -1,0 +1,1 @@
+Notes on "Mathematics for Machine Learning" by Deisenroth et. al. - available here: https://mml-book.github.io/
